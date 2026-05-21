@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_text_red"
+        android:title="Красный текст"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_text_green"
+        android:title="Зелёный текст"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_text_blue"
+        android:title="Синий текст"
+        app:showAsAction="never" />
+
+</menu>
